@@ -1,0 +1,6 @@
+Username is shown immediatly but password will 
+only show if typed "show" is enabled before 
+before the typing
+
+Each typing session is on one script.txt and can be discared
+
